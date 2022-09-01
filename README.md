@@ -1,4 +1,4 @@
-<img src="giphy.gif" width= "325px">
+<img src="giphy.gif" width= "325px" align = "right">
 <div id="badgets">
 <a href = "https://github.com/henrique1023">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
