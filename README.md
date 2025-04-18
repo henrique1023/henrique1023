@@ -6,7 +6,7 @@
 </div>
 
 # 🐱‍👤Bem vindo ao meu git
-Desenvolvedor Java, se formando em ADS pela Fatec 🐱‍👤🐱‍ 
+Desenvolvedor Java, Formado em ADS pela Fatec 🐱‍👤🐱‍ 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
